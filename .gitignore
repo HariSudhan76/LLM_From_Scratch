@@ -1,3 +1,6 @@
 5.GPT/gpt2/
+<<<<<<< HEAD
 5.GPT/model.pth
 5.GPT/model_and_optimizer.pth
+=======
+>>>>>>> 2f65638ca84d3e7738a7ef0eeac92cfe4ad58d2b
